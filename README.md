@@ -17,11 +17,6 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=RakhatBalga&theme=tokyonight&hide_border=true" width="100%" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RakhatBalga&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-      </td>
-    </tr>
   </table>
 </p>
 
