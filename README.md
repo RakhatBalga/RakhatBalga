@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=120&section=header" width="100%" />
-</p>
+
 
 <p align="center">
   <table align="center" border="0" cellpadding="10" cellspacing="0">
@@ -20,6 +18,3 @@
   </table>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=80&section=footer" width="100%" />
-</p>
