@@ -10,11 +10,6 @@
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RakhatBalga&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="195" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=RakhatBalga&theme=tokyonight&hide_border=true" width="100%" />
-      </td>
-    </tr>
   </table>
 </p>
 
